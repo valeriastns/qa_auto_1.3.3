@@ -1,1 +1,1 @@
-# This repo will have all info about the git that we learned
+# This repo will have all info about Git that we learned
